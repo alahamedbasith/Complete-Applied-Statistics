@@ -1,4 +1,4 @@
-# Complete_Applied_Statistics
+# Complete Applied Statistics For Data Science and Data Analysis
 
 ## Lecture 01
 
